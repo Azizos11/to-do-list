@@ -1,9 +1,6 @@
-<<<<<<< HEAD
-# react-todo-app-main
-=======
 # React Todo App
 
-A minimalistic, customisable todo app.
+A minimalistic, customizable todo app designed to help you stay organized.
 
 ## Demo
 
@@ -11,38 +8,30 @@ A minimalistic, customisable todo app.
 
 ## Features
 
-- Dark mode
-- Drag n drop tasks to reorder them
-- Tasks saved locally
-- Customisable task color
-- Edit task
-- Notification Box
-- Tablet & mobile friendly
+- **Dark Mode**: Switch between light and dark themes.
+- **Drag and Drop**: Reorder tasks effortlessly.
+- **Local Storage**: Tasks are saved locally for persistence.
+- **Customizable Task Colors**: Personalize your tasks.
+- **Edit Tasks**: Make changes to your tasks quickly.
+- **Notification Box**: Get task-related updates.
+- **Responsive Design**: Fully optimized for tablets and mobile devices.
 
-## Built with
+## Built With
 
-- React Js, Css, Sass
-- React Hooks : useState, useEffect, useRef, useContext
-- react-beautiful-dnd, react-icons, uuidv4...
+- **React JS**: Core framework for building the app.
+- **CSS & Sass**: Styling.
+- **React Hooks**: Includes `useState`, `useEffect`, `useRef`, and `useContext`.
+- **Libraries**: 
+  - `react-beautiful-dnd` for drag-and-drop functionality.
+  - `react-icons` for icons.
+  - `uuidv4` for unique task identifiers.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for more details
-
-## Author
-
-- Instagram - [@ilyasbelaoud](https://www.instagram.com/ilyasbelaoud)
-- Twitter - [@ilyasbelaoud](https://www.twitter.com/ilyasbelaoud)
+This project is licensed under the MIT License. See the [LICENSE.md](LICENSE.md) file for more details.
 
 ## Instructions
 
-First clone this repository.
-```bash
-$ git clone https://github.com/ilyasbelaoud/react-todo-app.git
-
- HEAD
-Votre version locale
-
-Version distante
-Commit distant
-
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Azizos11/to-do-list.git
